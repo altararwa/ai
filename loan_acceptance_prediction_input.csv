@@ -1,0 +1,11 @@
+applicant_id,age,income,employment_years,credit_score,loan_amount,loan_term_months,existing_loans_count,marital_status,education_level,loan_purpose
+3cdc93ac-8d64-4a81-a5d2-c7e46ec4798f,48,119423,36,688,9742,24,4,Divorced,Master,Personal
+78473db9-0355-4e93-8a92-7beecfca52ec,31,110141,33,705,37938,12,0,Married,PhD,Car
+1f40a35b-23d2-489e-ac44-8802bbe0dbf1,54,134892,34,324,40716,12,3,Divorced,PhD,Personal
+4475db22-abab-4cef-a5e6-82ca163613c6,43,144772,14,819,28656,60,3,Married,PhD,Business
+90291a37-48ca-4da6-ba19-0086069a45b6,54,80405,22,315,32820,60,0,Married,Master,Home
+ff8d3757-4758-4ae1-8260-e5fab990a990,51,36092,30,548,27067,24,4,Married,High School,Business
+432f9fd0-b5e9-4ff4-9556-0dec64e9c83b,26,132970,12,371,19653,36,2,Single,High School,Business
+d7072c0a-301a-4fb5-a7ec-72aa5f491e74,24,146400,20,640,28218,60,2,Divorced,High School,Home
+a4fc7d62-34c4-4ce2-a615-7af0c0cbe43b,40,28583,27,694,45345,36,4,Married,PhD,Car
+2ea196dc-46b5-4c3a-9a88-8362018c1908,45,45215,1,821,28041,24,0,Divorced,High School,Home
